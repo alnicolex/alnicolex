@@ -5,14 +5,14 @@
 
 ---
 
-## 💡 About Me
+### 💡 About Me
 
 Software Engineer with 10+ years of experience in software development, test automation, and business analysis.  
 I specialize in building reliable systems, improving software quality through automation, and translating business needs into technical solutions.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Languages & Frameworks**  
 C#, .NET, Java, Python, TypeScript, Angular  
@@ -28,7 +28,7 @@ Git, GitHub, Azure DevOps, CI/CD, Agile / Scrum
 
 ---
 
-## 📌 Featured Projects
+### 📌 Featured Projects
 
 🔹 QA Automation & Testing Frameworks  
 🔹 .NET & Java Backend Applications  
@@ -39,7 +39,7 @@ Git, GitHub, Azure DevOps, CI/CD, Agile / Scrum
 
 ---
 
-## 🌱 Currently
+### 🌱 Currently
 
 - Improving English communication skills
 - Open to opportunities in:
@@ -49,7 +49,7 @@ Git, GitHub, Azure DevOps, CI/CD, Agile / Scrum
 
 ---
 
-## 📫 Contact
+### 📫 Contact
 
 - GitHub: https://github.com/alnicolex  
 - LinkedIn: https://linkedin.com/in/alexander-oyuela/
