@@ -3,11 +3,11 @@
 📊 Data Analysis Specialist | Software Engineer | QA Automation  
 📍 Calgary, AB, Canada  
 
----
 
 ## 💡 About Me
 
-I am a **Data Analysis and Software Engineering professional** with over 10 years of experience working with data-driven systems, software development, and quality assurance.
+
+I am a versatile **Data Analysis and Software Engineering professional** with over 10 years of experience contributing to a wide range of projects across data analytics, software development, and quality assurance.
 
 I have hands-on experience analyzing **structured and unstructured data**, performing **descriptive and predictive analysis** to identify patterns, trends, and actionable insights that support business decision-making.
 
@@ -15,7 +15,6 @@ I have worked with **Python and Power BI** to clean, transform, analyze, and vis
 
 My background in **software development and QA automation** allows me to bridge the gap between data, systems, and business requirements, delivering reliable and high-quality analytical solutions.
 
----
 
 ## 📊 Data Analysis & Visualization Skills
 
@@ -28,8 +27,6 @@ My background in **software development and QA automation** allows me to bridge 
 - SQL queries for data extraction and analysis
 - Data validation, quality checks, and consistency analysis
 
----
-
 ## 🗄️ Data & Analytics Tools
 
 - Python (Pandas, NumPy)
@@ -38,8 +35,6 @@ My background in **software development and QA automation** allows me to bridge 
 - ETL processes and data integration (SSIS)
 - Data Warehousing
 - Structured & unstructured data processing
-
----
 
 ## 👨‍💻 Software Development Skills
 
@@ -62,16 +57,12 @@ My background in **software development and QA automation** allows me to bridge 
 - Defect tracking and root cause analysis
 - Quality assurance for data-driven systems
 
----
-
 ## ⚙️ Tools & Practices
 
 - Git / GitHub
 - CI/CD Pipelines
 - Agile / Scrum
 - Cross-functional collaboration
-
----
 
 ## 📌 Featured Projects
 
@@ -82,8 +73,6 @@ My background in **software development and QA automation** allows me to bridge 
 🔹 QA automation frameworks  
 
 ⬇️ Explore my pinned repositories below
-
----
 
 ## 🌱 Currently
 
@@ -96,8 +85,6 @@ My background in **software development and QA automation** allows me to bridge 
   - Software engineer
   - Junior Data Scientist
   - Software Quality / QA Automation Engineer
-
----
 
 ## 📫 Contact
 
