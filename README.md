@@ -1,10 +1,4 @@
-##  Hi there 👋  I'm Alexander Oyuela Lozano
-
-📊 Data Analysis Specialist | Software Engineer | QA Automation  
-📍 Calgary, AB, Canada  
-
-
-### 💡 About Me
+##  Hi, I'm Alex 👋  
 
 
 I am a versatile **Data Analysis and Software Engineering professional** with over 10 years of experience contributing to a wide range of projects across data analytics, software development, and quality assurance.
