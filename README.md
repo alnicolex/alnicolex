@@ -1,42 +1,40 @@
-# 👋 Hi, I'm Alexander Oyuela Lozano
+##  Hi there 👋  I'm Alexander Oyuela Lozano
 
 📊 Data Analysis Specialist | Software Engineer | QA Automation  
 📍 Calgary, AB, Canada  
 
 
-## 💡 About Me
+### 💡 About Me
 
 
 I am a versatile **Data Analysis and Software Engineering professional** with over 10 years of experience contributing to a wide range of projects across data analytics, software development, and quality assurance.
 
-I have hands-on experience analyzing **structured and unstructured data**, performing **descriptive and predictive analysis** to identify patterns, trends, and actionable insights that support business decision-making.
+I have hands-on experience analyzing structured and unstructured data, performing descriptive and predictive analysis to identify patterns, trends, and actionable insights that support business decision-making.
 
-I have worked with **Python and Power BI** to clean, transform, analyze, and visualize data, ensuring data accuracy and reliability through strong validation and testing practices.
+I have worked with Python and Power BI to clean, transform, analyze, and visualize data, ensuring data accuracy and reliability through strong validation and testing practices.
 
-My background in **software development and QA automation** allows me to bridge the gap between data, systems, and business requirements, delivering reliable and high-quality analytical solutions.
+My background in software development and QA automation allows me to bridge the gap between data, systems, and business requirements, delivering reliable and high-quality analytical solutions.
 
 
-## 📊 Data Analysis & Visualization Skills
+### 📊 Data Analysis & Visualization Skills
 
-- Analysis of **structured and unstructured data**
-- **Descriptive and predictive data analysis**
-- Exploratory Data Analysis (EDA)
+- Analysis of structured and unstructured data
+- Descriptive and predictive data analysis
 - Data cleaning, transformation, and feature preparation
-- Data visualization and reporting using **Power BI**
-- Data visualization with **Python** (Pandas, Matplotlib, Seaborn)
+- Data visualization and reporting using Power BI, Python
 - SQL queries for data extraction and analysis
 - Data validation, quality checks, and consistency analysis
 
-## 🗄️ Data & Analytics Tools
+### 🗄️ Data & Analytics Tools
 
 - Python (Pandas, NumPy)
 - Power BI (dashboards, KPIs, reports)
 - SQL (SQL Server, Oracle)
-- ETL processes and data integration (SSIS)
+- ETL processes and data integration (SSIS, Prefet)
 - Data Warehousing
 - Structured & unstructured data processing
 
-## 👨‍💻 Software Development Skills
+### 👨‍💻 Software Development Skills
 
 - C# / .NET
 - Java
@@ -46,9 +44,7 @@ My background in **software development and QA automation** allows me to bridge 
 - REST APIs & Microservices
 - System integration
 
----
-
-## 🧪 Software Testing & Quality Assurance
+### 🧪 Software Testing & Quality Assurance
 
 - Test Automation (BDD / TDD)
 - API Testing (Postman)
@@ -57,16 +53,16 @@ My background in **software development and QA automation** allows me to bridge 
 - Defect tracking and root cause analysis
 - Quality assurance for data-driven systems
 
-## ⚙️ Tools & Practices
+### ⚙️ Tools & Practices
 
 - Git / GitHub
 - CI/CD Pipelines
 - Agile / Scrum
 - Cross-functional collaboration
 
-## 📌 Featured Projects
+### 📌 Featured Projects
 
-🔹 Data analysis and visualization projects using **Python and Power BI**  
+🔹 Data analysis and visualization projects using Python and Power BI  
 🔹 Predictive and descriptive analytics projects  
 🔹 Data validation and quality assurance solutions  
 🔹 Backend and microservices-based applications  
@@ -74,7 +70,7 @@ My background in **software development and QA automation** allows me to bridge 
 
 ⬇️ Explore my pinned repositories below
 
-## 🌱 Currently
+### 🌱 Currently
 
 - Enhancing advanced **data analysis and visualization** skills
 - Strengthening **predictive analytics** foundations
@@ -86,7 +82,7 @@ My background in **software development and QA automation** allows me to bridge 
   - Junior Data Scientist
   - Software Quality / QA Automation Engineer
 
-## 📫 Contact
+### 📫 Contact
 
 - GitHub: https://github.com/alnicolex  
 - LinkedIn: https://linkedin.com/in/alexander-oyuela/
