@@ -1,17 +1,16 @@
 ##  Hi, I'm Alex 👋  
 
+🛠️ *A reliable, adaptable professional who delivers across data, software, and quality* 
 
-I am a versatile **Data Analysis and Software Engineering professional** with over 10 years of experience contributing to a wide range of projects across data analytics, software development, and quality assurance.
+
+### 💡 About Me
+I am a versatile Data Analysis and Software Engineering professional with over 10 years of experience contributing to a wide range of projects across data analytics, software development, and quality assurance.
 
 I have hands-on experience analyzing structured and unstructured data, performing descriptive and predictive analysis to identify patterns, trends, and actionable insights that support business decision-making.
 
-I have worked with Python and Power BI to clean, transform, analyze, and visualize data, ensuring data accuracy and reliability through strong validation and testing practices.
-
 My background in software development and QA automation allows me to bridge the gap between data, systems, and business requirements, delivering reliable and high-quality analytical solutions.
 
-
 ### 📊 Data Analysis & Visualization Skills
-
 - Analysis of structured and unstructured data
 - Descriptive and predictive data analysis
 - Data cleaning, transformation, and feature preparation
@@ -20,7 +19,6 @@ My background in software development and QA automation allows me to bridge the 
 - Data validation, quality checks, and consistency analysis
 
 ### 🗄️ Data & Analytics Tools
-
 - Python (Pandas, NumPy)
 - Power BI (dashboards, KPIs, reports)
 - SQL (SQL Server, Oracle)
@@ -29,7 +27,6 @@ My background in software development and QA automation allows me to bridge the 
 - Structured & unstructured data processing
 
 ### 👨‍💻 Software Development Skills
-
 - C# / .NET
 - Java
 - Python
@@ -39,7 +36,6 @@ My background in software development and QA automation allows me to bridge the 
 - System integration
 
 ### 🧪 Software Testing & Quality Assurance
-
 - Test Automation (BDD / TDD)
 - API Testing (Postman)
 - Manual & Automated Testing
@@ -48,14 +44,12 @@ My background in software development and QA automation allows me to bridge the 
 - Quality assurance for data-driven systems
 
 ### ⚙️ Tools & Practices
-
 - Git / GitHub
 - CI/CD Pipelines
 - Agile / Scrum
 - Cross-functional collaboration
 
 ### 📌 Featured Projects
-
 🔹 Data analysis and visualization projects using Python and Power BI  
 🔹 Predictive and descriptive analytics projects  
 🔹 Data validation and quality assurance solutions  
@@ -65,9 +59,8 @@ My background in software development and QA automation allows me to bridge the 
 ⬇️ Explore my pinned repositories below
 
 ### 🌱 Currently
-
-- Enhancing advanced **data analysis and visualization** skills
-- Strengthening **predictive analytics** foundations
+- Enhancing advanced data analysis and visualization skills
+- Strengthening predictive analytics foundations
 - Improving professional English communication
 - Open to opportunities as:
   - Data Analyst
@@ -77,7 +70,6 @@ My background in software development and QA automation allows me to bridge the 
   - Software Quality / QA Automation Engineer
 
 ### 📫 Contact
-
 - GitHub: https://github.com/alnicolex  
 - LinkedIn: https://linkedin.com/in/alexander-oyuela/
 - Email: alexanderoyuelalozano@gmail.com
